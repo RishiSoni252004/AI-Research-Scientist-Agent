@@ -1,0 +1,10 @@
+arxiv
+langchain
+langchain-community
+langchain-openai
+chromadb
+pypdf
+openai
+google-generativeai
+python-dotenv
+requests
